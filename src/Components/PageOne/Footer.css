@@ -1,0 +1,94 @@
+
+.footer{
+    width: 100%;
+    height: 650px;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+  h1{
+    padding: 0;
+    margin: 0;
+    position: relative;
+    right: 645px;
+    top: 25px;
+    color: black;
+}
+.u1-1 .gg{
+    color: white;
+    position: relative;
+    left: -660px;
+    top: 25px;
+    
+   
+   
+
+}
+
+.footer  ul{
+    width: 300px;
+    display: block;
+    position: relative;
+    top: 50px;
+}
+.footer  ul li{
+    color: darkgrey;
+}
+ul li:hover{
+    color: red;
+}
+.u1-2{
+    width: 510px;
+    height: 350px;
+    background-color: transparent;
+    position: relative;
+    left: 600px;
+    bottom: 300px;
+}
+.u1-2 .ss{
+    position: absolute;
+    left: 125px;
+    top: -8px;
+    color: white;
+    font-size: 44px;
+}
+.u1-2 .sss{
+    width: 100%;
+    position: absolute;
+    left: 200px;
+    top: 68px;
+    left: -5px;
+    color: white;
+    font-size: 18px;
+    opacity: 0.9;
+}
+
+.footer img{
+    width: 600px;
+    height: 420px;
+    position: relative;
+    bottom: 15px;
+    left: 700px;
+
+}
+.footer .row{
+    width: 800px;
+    height: 1px;
+    background-color: white;
+    position: relative;
+    top: 130px;
+    left: 100px;
+    opacity: 0.9;
+}
+.footer .row p{
+    margin-top: 20px;
+    color: white;
+    font-size: 22px;
+    
+}
+.u1-2 ul {
+    position: relative;
+    top: 250px;
+    right: 2000px;
+}
